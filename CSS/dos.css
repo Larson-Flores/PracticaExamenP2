@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+   text-align: left;
+   border-collapse: collapse;
+   margin: 0 0 1em 0;
+   caption-side: top;
+   background-color: rgb(238, 246, 5);
+
+ }
+ caption, td, th {
+    padding: 0.3em;
+    border: 2px dotted rgb(14, 14, 14);
+    width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border-collapse: collapse;
+   border-spacing: 0;
+
+ }
+ tbody {
+    border: 2px dotted rgb(14, 14, 14);
+    border-bottom: 2px dotted rgb(246, 11, 11);
+ }
+
+
+ .Color9{
+    color:rgb(226, 43, 55);
+    
+ }
+ .TEXT{
+    text-align:justify;
+ }
+
+ .Fondo2{
+    background: #23d4ec
+ }
